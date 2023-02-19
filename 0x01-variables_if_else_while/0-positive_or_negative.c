@@ -3,11 +3,12 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/*
-* main -print if the number is postive, zero, or negative
-*
-*Description: using the main function this print
-*in the variable n is positive or negative.
+/**
+ *main - Entry point
+ *
+ *description:using the main function this print if the number
+ *is postive, zero, or negative
+ *Return: Always 0 (Success)
 */
 int main(void)
 {
